@@ -6,6 +6,7 @@
 - Tener una suscripcion en Azure
 - Tener una conexion a internet
 - Tener un navegador instalado (Brave,Google,Firefox, etc)
+- Para el script de python necesitaras esto ---> [link](https://github.com/OrlandoM117/face-api-consumption-python)
 
 -------------------------
 ## TUTORIAL
